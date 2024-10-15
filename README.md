@@ -36,13 +36,13 @@ Par exemple :
 Cet exercice montre comment utiliser les structures conditionnelles en PHP (`if`, `else`, `elseif`, opérateur ternaire).
 
 ### 2. Boucles
-Ici, vous apprendrez à utiliser les boucles (`for`, `while`, `do-while`, `foreach`) pour parcourir des structures répétitives.
+Ici, vous apprendrez à utiliser les boucles (`for`, `foreach`) pour parcourir des structures répétitives.
 
 ### 3. Variables
 Dans cet exercice, vous explorerez comment définir et manipuler des variables en PHP, ainsi que les différents types de données.
 
 ### 4. Chaînes de caractères
-Cet exercice couvre les manipulations de chaînes de caractères (concaténation, méthodes comme `strlen`, etc.).
+Cet exercice couvre les manipulations de chaînes de caractères (concaténation, index, etc.).
 
 ### 5. Opérateurs
 Vous découvrirez les différents types d'opérateurs disponibles en PHP, y compris les opérateurs arithmétiques, de comparaison et logiques.
